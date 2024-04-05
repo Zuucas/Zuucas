@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Zuucas 😁
+## Bem-vindo(a) ao perfil de Lucas 😁
 
  <div>
    <a href="https://github.com/Zuucas">
