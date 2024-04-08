@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Zuucas 😁
+HI 😁
 
  <div>
    <a href="https://github.com/Zuucas">
@@ -13,6 +13,5 @@
 </div>
  <br>
 <div> 
-  <a target="_blank" href="https://instagram.com/luca.meloo" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/lucas-melo-85a16b164/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
